@@ -1,0 +1,160 @@
+commit 1d7e529b8f0ee33943dfe0a98450ac51de889e46
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Wed Nov 18 21:18:12 2020 -0600
+
+    fix unit test
+
+commit b019a6e4e07b18b67689907c00af84157f3a0c76
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Wed Nov 18 21:14:10 2020 -0600
+
+    add files
+
+commit 1d71616e4dff10b782665032e52523cbe62114ac
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Wed Nov 18 21:09:15 2020 -0600
+
+    fix makefile
+
+commit 0676ba22a65d29419ccfd3a198f1da356f22f9f5
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Wed Nov 18 21:02:06 2020 -0600
+
+    edit makefile
+
+commit 6386f0b10c5fc731ea45fa55d611315c42c62c7c
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Wed Nov 18 20:43:47 2020 -0600
+
+    fix makefile
+
+commit 8115637cc1eebe0b7e7341cfefc9ea9ee6133711
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Wed Nov 18 20:32:44 2020 -0600
+
+    fix code and acceptance test
+
+commit c01d857ae88e2e7930a96ff2116c203138371480
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Wed Nov 18 17:44:19 2020 -0600
+
+    added more test in testdiplomacy
+
+commit 6820b5499015083fcf4a41dcfa9152c1e28b68cd
+Merge: a95b0bd 8081390
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Wed Nov 18 02:05:39 2020 -0600
+
+    fixed merge conflicts
+
+commit a95b0bd0e7b4655d01062c9717d8daa146e64ed7
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Wed Nov 18 00:01:39 2020 -0600
+
+    finished diplomacy
+
+commit 808139079d2dca9c0d20ccb53a1b698347cb094f
+Merge: 3f8701b dd68b08
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Wed Nov 18 03:44:28 2020 +0000
+
+    Merge branch 'joanne_dev' into 'master'
+    
+    Joanne dev
+    
+    See merge request Twiffler/diplomacy!2
+
+commit dd68b084f558e009c873de397df7084f07b7bdd3
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Tue Nov 17 21:42:38 2020 -0600
+
+    fix RunDiplomacy.py
+
+commit 5cc6da1ca313da681c9a6b4f18563ed533e64855
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Tue Nov 17 21:25:45 2020 -0600
+
+    fix error in test case
+
+commit 3f8701b4608624207deb6985e9712ccf48804139
+Merge: f984da7 0613398
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Wed Nov 18 02:16:49 2020 +0000
+
+    Merge branch 'joanne_dev' into 'master'
+    
+    Joanne dev
+    
+    See merge request Twiffler/diplomacy!1
+
+commit 061339895b788169189ef48b00547307ab2f3a23
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Tue Nov 17 17:13:42 2020 -0600
+
+    edit makefile, except for the part that still show collatz
+
+commit fc9bcd1ff46f491425c882a140622dc154e67918
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Tue Nov 17 17:06:54 2020 -0600
+
+    Add acceptance tests
+
+commit 7a09334b7bc543d5fd443e5fe70be0595fc65f6c
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Sun Nov 15 23:04:56 2020 -0600
+
+    fix testdiplomacy and changed diplomacy.py
+
+commit 6505c5dff44e42286540b13d1da6806956194e81
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Sat Nov 14 19:40:23 2020 -0600
+
+    change in and out file
+
+commit d9d66eae3e56a5571f703a60178c6bb35ac2a03e
+Author: Che-Wei Chou <joanne_chou@utexas.edu>
+Date:   Thu Nov 12 21:55:25 2020 -0600
+
+    change .yml into diplomacy
+
+commit 1c3ba78f4f3671606b791f3337f613068feeceef
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Tue Nov 10 22:18:20 2020 -0600
+
+    changed names of files
+
+commit 5ba2bcad34cdbc86ec87b462479bf90d22e76041
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Tue Nov 10 22:16:05 2020 -0600
+
+    change other files to diplomacy
+
+commit c7a6d17a7849fc10a10902a8ee3e42b70e05fa6b
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Tue Nov 10 21:55:37 2020 -0600
+
+    edit makefile to say diplomacy
+
+commit b3262323b6b9a363852725a59d0debf888afbd6f
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Tue Nov 10 21:39:09 2020 -0600
+
+    changed python files to be diplomacy
+
+commit 93e1f7d04387ca9282f25ce55f085314fe75a6e5
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Tue Nov 10 21:28:32 2020 -0600
+
+    changed collatz to be diplomacy
+
+commit f984da7fcb62c306b5824c216d5abf759616dfce
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Tue Nov 10 20:55:09 2020 -0600
+
+    copied template from first project
+
+commit ea464d922be902a0253787c6da05ecff82444aba
+Author: Corey Zhang <coreyjzhang@gmail.com>
+Date:   Sat Nov 7 06:00:01 2020 +0000
+
+    Initial commit
